@@ -2,11 +2,13 @@
 
 ###
 
-<h2 align="left">Janaina por aqui!!<br>Formada em Engenharia Civil e buscando novos conhecimentos na área da tecnologia, quem sabe futuramente eu consiga mesclar as duas áreas hum...</h2>
+<h2 align="left">Janaina por aqui!!<br>Formado(a) em Engenharia Civil e buscando novos conhecimentos na área da tecnologia,
+  quem sabe futuramente eu consiga mesclar as duas áreas hum...</h2>
 
 ###
 
-<p align="left">📚 Atualmente cursando Análise e Desenvolvimento de Sistemas e Iniciante na area de programação competitiva</p>
+<p align="left">📚 Atualmente cursando Análise e Desenvolvimento de Sistemas e 
+  Iniciante na area de programação competitiva</p>
 
 ###
 
