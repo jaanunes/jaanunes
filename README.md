@@ -2,9 +2,9 @@
 
 ###
 
-Janaina por aqui!!👋🏽
-Formada em Engenharia Civil 👷🏽‍♀️
-E buscando novos conhecimentos na área da tecnologia,
+Janaina por aqui!!
+Sou formada em Engenharia Civil 👷🏽‍♀️
+E agora sigo buscando novos conhecimentos na área da tecnologia,
 quem sabe futuramente eu consiga mesclar as duas áreas hum...😉
 
 ###
