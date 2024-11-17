@@ -1,14 +1,17 @@
-<h1 align="center">Hey, seja bem vindo(a)!</h1>
+👩🏽‍💻 Hey, seja bem vindo(a)!
 
 ###
 
-<h2 align="left">Janaina por aqui!!<br>Formado(a) em Engenharia Civil e buscando novos conhecimentos na área da tecnologia,
-  quem sabe futuramente eu consiga mesclar as duas áreas hum...</h2>
+Janaina por aqui!!👋🏽
+Formada em Engenharia Civil 👷🏽‍♀️
+E buscando novos conhecimentos na área da tecnologia,
+quem sabe futuramente eu consiga mesclar as duas áreas hum...😉
 
 ###
 
-<p align="left">📚 Atualmente cursando Análise e Desenvolvimento de Sistemas e 
-  Iniciante na area de programação competitiva</p>
+📚 Atualmente cursando Análise e Desenvolvimento de Sistemas 
+ e me arriscando na area da programação competitiva 
+ (por enquanto, iniciante em ambas)
 
 ###
 
