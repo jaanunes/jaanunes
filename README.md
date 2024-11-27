@@ -1,8 +1,7 @@
-👩🏽‍💻 Hey, seja bem vindo(a)!
+👩🏽‍💻 Hey, Janaina por aqui!!
 
 ###
 
-Janaina por aqui!!
 Sou formada em Engenharia Civil 👷🏽‍♀️
 E agora sigo buscando novos conhecimentos na área da tecnologia,
 quem sabe futuramente eu consiga mesclar as duas áreas hum...😉
